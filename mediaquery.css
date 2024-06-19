@@ -5,10 +5,11 @@
     }
     .carrosel span img{
         width: 100%;
+        overflow-x: hidden;
     }
     .video-you {
         height: 30%;
-        overflow-x: hidden;
+        
     }
     .rodape1{
         display:flex;

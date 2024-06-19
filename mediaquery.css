@@ -5,6 +5,7 @@
     }
     .video-you {
         height: 30%;
+        overflow-x: hidden;
     }
     .rodape1{
         display:flex;

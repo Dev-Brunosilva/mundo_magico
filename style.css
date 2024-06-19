@@ -90,6 +90,7 @@ body{
 }
 .box span {
     position: absolute;
+    overflow-x: hidden;
     top: 0;
     left: 0;
     width: 100%;
@@ -145,6 +146,7 @@ body{
         display: flex;
         align-items: center;
         justify-content: center;
+        overflow-x: hidden;
         height: auto;
         background-color:rgb(28, 31, 27) ;
     }
